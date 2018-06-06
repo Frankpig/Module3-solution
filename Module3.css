@@ -1,0 +1,49 @@
+body {
+	font-size: 16px;
+}
+
+#header-nav { 	
+	border-radius: 0;	
+	background-color: #afb2b5;
+	border:0;
+}
+
+.navbar-brand {
+	padding-top: 20px;
+}
+
+.navbar-brand h1 {
+	color: black;
+	font-size: 1.5em;
+	text-transform: uppercase;
+	text-shadow: 1px 1px 1px #222;
+	margin-top: 0;
+	margin-bottom: 0;
+	line-height: 0.75;
+}
+.navbar-brand a:hover, .navbar-brand a:focus {
+	text-decoration: none;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+	border: 1px solid black;
+}
+#nav-list {
+	color: black;
+	text-align: center;
+	background-color: grey;
+}
+#main-content h2 {
+	font-weight:bolder;
+}
+.food-content h3 {
+	margin-top: 0;
+}
+.food-content {
+	background-color: #afb2b5;
+	padding: 20px;
+	color: black;
+	margin-top: 30px;
+}
+
+
